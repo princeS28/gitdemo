@@ -1,4 +1,0 @@
-
-Hello, Welcome to Git and GitHub.
-
-This session covers the Git commands and repository usage.
